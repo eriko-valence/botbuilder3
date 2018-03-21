@@ -1,4 +1,4 @@
-//Sprint 1
+//Sprint 1 - merge test
 
 var builder = require('botbuilder');
 
