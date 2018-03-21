@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eriko-valence/botbuilder3/issues"
   },
-  "homepage": "https://github.com/eriko-valence/botbuilder3#readme"
+  "homepage": "https://github.com/eriko-valence/botbuilder3#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.0"
+  }
 }
