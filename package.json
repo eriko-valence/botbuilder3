@@ -1,0 +1,19 @@
+{
+  "name": "botbuilder3",
+  "version": "1.0.0",
+  "description": "getting started 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eriko-valence/botbuilder3.git"
+  },
+  "author": "Erik Olsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eriko-valence/botbuilder3/issues"
+  },
+  "homepage": "https://github.com/eriko-valence/botbuilder3#readme"
+}
